@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-In this project My goal is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques I've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+In this project my goal is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques I've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 Link to my completed [mobile portfolio](https://websiteartist.github.io/mobile-portfolio/).
 
