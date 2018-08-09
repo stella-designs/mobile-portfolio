@@ -53,3 +53,10 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+### Resourses for Completing this project 
+
+* <a href=https://classroom.udacity.com/nanodegrees/nd001>Udacity</a>
+* <a href=https://www.w3schools.com/>w3schools</a>
+* <a href=https://developers.google.com/web/tools/>Google Developers</a>
+* My Udacity Mentor 
