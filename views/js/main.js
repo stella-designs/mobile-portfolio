@@ -437,6 +437,7 @@ var resizePizzas = function(size) {
           return (33/100);
         case "3":
           return (50/100);
+
       }
     }
 
