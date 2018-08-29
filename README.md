@@ -63,6 +63,16 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 ### My Learning Process & Commits 
 
+* Wed Aug 29 12:21:23 2018, added internal stylesheet, media to print.css
+* Wed Aug 29 12:15:31 2018, readded print.css, added internal style sheet
+* Tue Aug 28 12:05:40 2018, removed print.css link
+* Tue Aug 28 12:03:51 2018, combined css files to 1
+* Tue Aug 28 12:00:38 2018, compressed js file
+* Tue Aug 28 11:55:51 2018, img files updated, unused files deleted
+* Tue Aug 28 11:54:06 2018, Modification Steps started
+* Fri Aug 24 15:47:01 2018, returned css files back to original formatting
+* Fri Aug 24 15:02:43 2018, minified css
+* Fri Aug 24 14:58:19 2018, new css file for small screens
 * Wed Aug 22 10:04:25 2018, update resize bar
 * Tue Aug 14 12:59:33 2018, removed metadata
 * Tue Aug 14 12:46:24 2018, fixed img
